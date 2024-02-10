@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriPort", "Deneme 3\SeriPort.csproj", "{D404AE35-662D-4815-9CA0-77395D4F7BBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D404AE35-662D-4815-9CA0-77395D4F7BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D404AE35-662D-4815-9CA0-77395D4F7BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D404AE35-662D-4815-9CA0-77395D4F7BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D404AE35-662D-4815-9CA0-77395D4F7BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AE6F00A-391D-4FE4-A9B5-64EA8258A1F3}
+	EndGlobalSection
+EndGlobal
